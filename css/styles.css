@@ -1,5 +1,16 @@
-body{}
+.output{
+  text-align: center;
+  font-size: 200px;
+  color: red;
+}
+body{
+  background-image: url("https://i.ytimg.com/vi/y2gbMbzpaUk/maxresdefault.jpg");
+  background-repeat: no-repeat;
+}
 
+h1{
+  text-align: center;
+}
 label{
   width: 200px;
 }
