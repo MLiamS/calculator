@@ -8,6 +8,10 @@ body{
   background-repeat: no-repeat;
 }
 
+.container{
+  text-align: center;
+}
+
 h1{
   text-align: center;
 }
